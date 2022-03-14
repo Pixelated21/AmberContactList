@@ -1,5 +1,4 @@
 import React from 'react'
-import ContactsList from '../ContactsList'
 
 function AddContact() {
 
